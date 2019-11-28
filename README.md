@@ -25,5 +25,19 @@ Mini Articles
 Website
 --------
 
-  Learn Computer Graphics From Scratch:
+  Computer Graphics Tutorial(for n00b)
+  https://www.tutorialspoint.com/computer_graphics/index.htm
+  
+  Learn Computer Graphics From Scratch!
   https://www.scratchapixel.com/
+  
+  Computer Graphics (CMU 15-462/662)
+  http://15462.courses.cs.cmu.edu/fall2019/
+  
+  learn OpenGL
+  https://learnopengl.com/Introduction
+  
+  
+  
+  
+  
