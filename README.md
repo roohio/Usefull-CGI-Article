@@ -1,6 +1,7 @@
 # Usefull-CGI-Article
 Best Article about computer graphic on the internet
 Finding usefull article on the internet can be challengine due to overwhelmingly google resaults, in this page i tried make a list of best articles that can help to understand fundumentally a computer graphic subject and tried not to talk about a specific software and solely help to teach the computer graphic.
+plz share
 
 
 Mini Articles
@@ -20,3 +21,9 @@ Mini Articles
   Creating In-Game Style Concepts With Toolbag
   https://marmoset.co/posts/creating-in-game-style-concepts-with-toolbag/
   
+  
+Website
+--------
+
+  Learn Computer Graphics From Scratch:
+  https://www.scratchapixel.com/
