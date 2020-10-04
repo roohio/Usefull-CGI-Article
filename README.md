@@ -1,5 +1,5 @@
 # Usefull-CGI-Article
-Best Article about computer graphic on the internet. Finding usefull article on the internet can be challengine due to overwhelmingly google resaults, in this page i tried make a list of best articles that can help you to fundumentally understand computer graphic subject without talking about a specific software and solely help you digest the computer graphic concept. please share
+Best Articles about computer graphic on the internet. Finding usefull article on the internet can be challenging due to thousends of google resaults, in this page i tried make a list of best articles that can help you to fundumentally understand computer graphic subject without talking about a specific software and solely help you digest the computer graphic concept. please share
 
 
 Mini Articles
@@ -21,7 +21,7 @@ Mini Articles
   
   
 Website
---------
+---------------
 
   Computer Graphics Tutorial(for n00b)
   https://www.tutorialspoint.com/computer_graphics/index.htm
@@ -34,6 +34,12 @@ Website
   
   learn OpenGL
   https://learnopengl.com/Introduction
+  
+  Introduction to Computer Graphics
+  http://math.hws.edu/graphicsbook/
+  
+  Pixar in a Box (video)
+  https://www.khanacademy.org/computing/pixar
   
   
   
