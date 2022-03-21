@@ -1,5 +1,5 @@
 # Usefull-CGI-Article
-Best Articles about computer graphic on the internet. Finding usefull article on the internet can be challenging due to thousends of google resaults, in this page i tried make a list of best articles that can help you to fundumentally understand computer graphic subject without talking about a specific software and solely help you digest the computer graphic concept. please share
+Best Articles about computer graphic on the internet. On the internet. Because there are thousands of Google results, finding valuable information on the internet may be difficult. On this page, I've attempted to create a list of the greatest articles that can help you understand computer graphics fundamentally without focusing on a single software. Please spread the word.
 
 
 Mini Articles
